@@ -1,5 +1,5 @@
 # **Sending emails using python**
-# Simple method to automate sending emails using python's pytest framework.
+### Simple method to automate sending emails using python's pytest framework.
 
 The Test Automation Framework is created for automating email.
 
